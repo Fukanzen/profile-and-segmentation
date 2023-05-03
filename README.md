@@ -6,29 +6,31 @@ The website is divided into 4 pages, which can be accessed using the navigation 
 
   Profile: The landing page, where it gives an introduction of me and what am I currently doing, this page also gives you more information about my personality based on 16 personality test [https://www.16personalities.com]
   
-  ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/1.png?raw=true)
+  ![Alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/1.png?raw=true)
 
 
   Hobbies: This page highlights my activites during free times, and what I'm interested in.
   
-  ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/2.png?raw=true)
+  ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/2.png?raw=true)
 
 
   Contact: Here you'll find my contact information.
   
-  ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/3.png?raw=true)
+  ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/3.png?raw=true)
 
    FGO Servant Database : This is where the details is, I don't really know what to use about myself, so I pick Fate Grand Order Servants. Why? Idk they seems cool, so why not.
    
-   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/db1.png?raw=true)
-   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/db2.png?raw=true)
+   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/db1.png?raw=true)
    
-   When you click the name or the image, you can see the details, which contains their rarity, profile, and noble phantasm.
    
-   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/cld1.png?raw=true)
-   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/master/ScreenShot/cld2.png?raw=true)
-    
-    The logo on the header will send you back to the landing page when clicked
+   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/db2.png?raw=true)
+   
+   When you click the name or the image, you can see the details, which contains their rarity, profile, and noble phantasm. The logo on the header will send you back to the landing page.
+   
+   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/cld1.png?raw=true)
+   
+   
+   ![alt text](https://github.com/Fukanzen/profile-and-segmentation/blob/main/Screenshot/cld2.png?raw=true)
     
 Design:
 
