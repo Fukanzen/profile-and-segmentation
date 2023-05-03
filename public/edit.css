@@ -1,0 +1,70 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.logo{
+    padding-left: 1.5rem;
+    color: #ffffff;
+}
+
+.chaldea{
+    height: 80px;
+}
+
+.bgg{
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+}
+
+.navbar1{
+    background-color: #1f3878;
+    display: flex;
+}
+
+.content{
+    display: flex;
+    margin-top: 3rem;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 3rem 10rem 0 10rem;
+}
+
+.fgo{
+    background-color: #282828;
+    display: flex;
+    margin: 1rem 0 1rem 0;
+    padding: 1rem 0 1rem 0;
+    flex-direction: row;
+    border-radius: 20px;
+    border: solid #1f3878 3px;
+}
+
+.servantName{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.servantName:hover{
+    text-decoration: underline;
+}
+
+.fgotext{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    padding-top: 0.5rem;
+}
+
+.pfp{
+    height: 15rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+}
+
+.prodlogo{
+    height: 40px;
+    margin: 21.44px 1rem 21.44px 1rem;
+    padding-top: 0.5rem;
+}

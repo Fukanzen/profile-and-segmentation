@@ -1,0 +1,89 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.logo{
+    padding-left: 1.5rem;
+    color: #ffffff;
+}
+
+.chaldea{
+    height: 80px;
+}
+
+.bgg{
+    position: fixed;
+    display: flex;
+    z-index: -1;
+    width: 100vw;
+}
+
+.navbar1{
+    background-color: #1f3878;
+    display: flex;
+}
+
+.content{
+    display: flex;
+    margin-top: 3rem;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-bottom: 1rem;
+    margin: 1.5rem 8rem 2rem 8rem;
+
+    background-color: #282828;
+    border-radius: 20px;
+    border: solid #1f3878 2px;
+}
+
+.layer1{
+    display: flex;
+    flex-direction: column;
+}
+
+.layerc{
+    display: flex;
+    flex-direction: row;
+}
+
+.servname{
+    margin: 1rem;
+    padding: 0.5rem 0 0 0.5rem;
+    font-size: 42;
+    color: white;
+}
+
+.layer2{
+    display: flex;
+    flex-direction: row;
+}
+
+.layer3{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    color: white;
+
+    text-align: justify;
+}
+
+.tit{
+    margin: 1rem 0 0.3rem 0;
+}
+
+h5{
+    margin: 0.3rem 0 0.5rem 0;
+}
+
+.pfp{
+    height: 25rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+}
+
+.prodlogo{
+    height: 40px;
+    margin: 21.44px 1rem 21.44px 1rem;
+    padding-top: 0.5rem;
+}
